@@ -1,4 +1,5 @@
 .pytest_cache/
 .vscode/
+__pycache__/
 scratch.ipynb
 /precipitation_last_1000_days.pkl
