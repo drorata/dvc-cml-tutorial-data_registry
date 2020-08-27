@@ -3,3 +3,4 @@
 __pycache__/
 scratch.ipynb
 /precipitation_last_1000_days.pkl
+/speed_last_1000_days.pkl
