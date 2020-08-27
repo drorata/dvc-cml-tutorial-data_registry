@@ -1,0 +1,12 @@
+name: dvc-cml-tutorial-data_registry
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pip
+  - ipykernel
+  - "pandas<2.0"
+  - "fire==0.3.1"
+  - "dvc==1.6.1"
+  - pip:
+      - noaa-sdk
